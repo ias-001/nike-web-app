@@ -1,9 +1,8 @@
 import React, { useState } from 'react'
-import Button from '../components/Button'
 import { arrowRight } from '../assets/icons'
-import { shoes, statistics } from '../utils/constant'
-import { bigShoe1, bigShoe2, bigShoe3 } from '../assets/images'
+import Button from '../components/Button'
 import ShoeCard from '../components/ShoeCard'
+import { shoes, statistics } from '../utils/constant'
 
 
 const Hero = () => {
